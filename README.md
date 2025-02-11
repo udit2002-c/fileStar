@@ -1,6 +1,4 @@
-Here’s a complete and engaging README for your FileStar project:
-
-FileStar: AI-Powered File Processing with a Garden Theme 🌱🌿🌺
+**FileStar:** AI-Powered File Processing with a Garden Theme 🌱🌿🌺
 
 FileStar is a modern, intuitive desktop application that transforms technical file operations into a delightful “garden” experience. This AI-powered file processing tool visualizes each transformation step as a growing plant, making complex file manipulations both enjoyable and accessible.
 
